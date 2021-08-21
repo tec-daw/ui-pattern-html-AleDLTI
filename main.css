@@ -1,0 +1,66 @@
+body{
+ background: rgb(252, 214, 246);
+ background: linear-gradient(180deg, rgb(252, 214, 246) 36%, #B45F9B 92%) fixed;
+}
+
+#mi-foto{
+ border-radius: 100%;
+ width: 7.5rem;
+ border-color: rgb(0,0,0);
+}
+
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+  background-color: rgb(0,0,0);
+  text-align: center;
+}
+
+li{
+	color: rgb(0,0,0);
+}
+
+.carta{
+ margin-top: 16px;
+ background-color: rgb(197,	162,	197);
+ color: rgb(103,75,103);
+ border-radius: 20px;
+ padding:10px;
+ box-shadow: 0 0 20px 1px;
+}
+
+.texto_titulo{
+   color: rgb(193, 12, 163);
+   font-family: 'Lemonada', cursive;
+   font-size: 60px;
+   text-align: center;
+}
+
+.texto_actual{
+   color: rgb(193, 12, 163);
+   font-family: 'Lemonada', cursive;
+   font-size: 60px;
+   text-align: center;
+}
+.texto_titulo:hover{
+	 
+	color: #B424C1;
+	text-decoration: underline
+}
+
+
+.texto{
+  font-family: 'Changa', sans-serif;
+  font-size: 24px;
+  text-align: center;
+}
+
+
+.btn{
+color:rgb(193, 12, 163);
+}
+
+.musica{
+ position: relative;
+  left: 100px;
+}
